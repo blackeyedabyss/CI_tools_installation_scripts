@@ -1,0 +1,1 @@
+These are the installation scripts which I used for the CI pipeline running on Ubuntu server - EC2 instance - AWS. Refer to the OG document with the step by step approach on how to use these scripts and in what order. 
